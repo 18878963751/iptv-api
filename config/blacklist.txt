@@ -13,11 +13,15 @@ hebtv.com
 kcdnvip.com
 wscdns.com
 otttv.bj.chinamobile.com
+ottrrs.hl.chinamobile.com
 mgtv.ottiptv.cc
 epg.pw
 pendy.dpdns.org
 112.99.193.34:9901
 freetv.fun
+
+miguvideo.com
+
 
 #屏蔽节目台
 #理由：节目错乱
